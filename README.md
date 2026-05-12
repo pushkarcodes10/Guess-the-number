@@ -28,14 +28,12 @@ A simple and fun **Guess The Number** game built to practice programming fundame
 
 ## 🛠️ Technologies Used
 
-- Python / JavaScript *(choose your language)*
-- Basic programming concepts
+- JavaScript
+- HTML
+- CSS
 
 ---
 ##Preview
 
 
 ```
-guess-the-number/
-│── main.py        # Main game file
-│── README.md      # Project documentation
