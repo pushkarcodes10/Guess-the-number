@@ -35,5 +35,6 @@ A simple and fun **Guess The Number** game built to practice programming fundame
 ---
 ##Preview
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef197e91-d789-473d-b1d2-a783d5a11527" />
 
 ---
