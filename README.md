@@ -36,4 +36,4 @@ A simple and fun **Guess The Number** game built to practice programming fundame
 ##Preview
 
 
-```
+---
